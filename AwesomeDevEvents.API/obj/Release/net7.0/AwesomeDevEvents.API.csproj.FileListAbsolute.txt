@@ -1,0 +1,7 @@
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.AssemblyInfo.cs
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felip\source\repos\AwesomeDevEvents\AwesomeDevEvents.API\obj\Release\net7.0\AwesomeDevEvents.API.MvcApplicationPartsAssemblyInfo.cache
