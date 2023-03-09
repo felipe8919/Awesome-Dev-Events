@@ -12,7 +12,13 @@
 
 ### Features
 
-- [x] Cadastro de eventos
+- [x] Cadastro de evento
+
+- [x] Lista de evento
+
+- [x] Atualização 
+
+- [x] Remoção de evento
 
 - [x] Cadastro de palestrantes
 
