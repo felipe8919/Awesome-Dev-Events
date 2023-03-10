@@ -11,7 +11,12 @@ namespace AwesomeDevEvents.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddDbContext<DevEventsDbContext>(o => o.UseInMemoryDatabase("DevEventsDb"));
+            var connectionString = builder.Configuration.GetConnectionString("DevEventsCs");
+
+            //Configuração para usar o banco em memória. 
+            //builder.Services.AddDbContext<DevEventsDbContext>(o => o.UseInMemoryDatabase("DevEventsDb"));
+
+            builder.Services.AddDbContext<DevEventsDbContext>(o => o.UseSqlServer(connectionString));
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
